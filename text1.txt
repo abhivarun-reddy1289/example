@@ -1,1 +1,2 @@
-text2 for 2 branch
+text2 for 2 branch 
+new change
