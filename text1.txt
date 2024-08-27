@@ -1,2 +1,4 @@
+text2 for 2 branch
+some chnages are made
 text2 for 2 branch 
 new change
